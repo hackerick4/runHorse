@@ -1,0 +1,24 @@
+﻿已經開始建置於 2012/8/29 上午 01:21:13。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\R\Desktop\跑馬燈\跑馬燈\跑馬燈.vcxproj"。
+     1>InitializeBuildStatus:
+         正在變更時間戳記 "Debug\跑馬燈.unsuccessfulbuild"。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\r\desktop\跑馬燈\跑馬燈\main.cpp(82): warning C4800: 'int' : 強制將 bool 的值定為 'true' 或 'false' (效能警告)
+     1>c:\users\r\desktop\跑馬燈\跑馬燈\main.cpp(83): warning C4800: 'int' : 強制將 bool 的值定為 'true' 或 'false' (效能警告)
+     1>c:\users\r\desktop\跑馬燈\跑馬燈\main.cpp(84): warning C4800: 'int' : 強制將 bool 的值定為 'true' 或 'false' (效能警告)
+     1>c:\users\r\desktop\跑馬燈\跑馬燈\main.cpp(133): warning C4101: 'b' : 未參考的區域變數
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\R\Desktop\跑馬燈\Debug\跑馬燈.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\跑馬燈.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\R\Desktop\跑馬燈\Debug\跑馬燈.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\R\Desktop\跑馬燈\Debug\跑馬燈.lib" /MACHINE:X86 Debug\main.obj
+         跑馬燈.vcxproj -> C:\Users\R\Desktop\跑馬燈\Debug\跑馬燈.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\R\Desktop\跑馬燈\Debug\跑馬燈.exe;#1" /manifest "Debug\跑馬燈.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\跑馬燈.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\跑馬燈.lastbuildstate"。
+     1>專案 "C:\Users\R\Desktop\跑馬燈\跑馬燈\跑馬燈.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.64
